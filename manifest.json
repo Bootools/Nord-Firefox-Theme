@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Nord Firefox",
+    "theme": {
+        "colors": {
+            "bookmark_text": [236, 239, 244], 
+            "button_background_active": [76, 86, 106],
+            "button_background_hover": [67, 76, 94],
+            "icons":  [236, 239, 244],
+            "icons_attention": [139, 192, 208],
+            "frame": [46, 52, 64],
+            "frame_inactive": [46, 52, 64],
+            "ntp_background": [46, 52, 64],
+            "ntp_text": [236, 239, 244],
+            "popup": [67, 76, 94],
+            "popup_border": [67, 76, 94],
+            "popup_highlight": [76, 86, 106]
+        }
+    }
+}
