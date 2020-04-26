@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "version": "1.0",
-    "name": "Nord Firefox",
+    "name": "Nord-Based Theme",
     "theme": {
         "colors": {
             "bookmark_text": [216, 222, 233], 
