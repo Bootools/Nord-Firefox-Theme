@@ -4,7 +4,7 @@
     "name": "Nord Firefox",
     "theme": {
         "colors": {
-            "bookmark_text": [236, 239, 244], 
+            "bookmark_text": [216, 222, 233], 
             "button_background_active": [76, 86, 106],
             "button_background_hover": [67, 76, 94],
             "icons":  [236, 239, 244],
@@ -15,7 +15,33 @@
             "ntp_text": [236, 239, 244],
             "popup": [67, 76, 94],
             "popup_border": [67, 76, 94],
-            "popup_highlight": [76, 86, 106]
+            "popup_highlight": [139, 192, 208],
+            "popup_highlight_text": [67, 76, 94],
+            "popup_text": [229, 233, 240],
+            "sidebar": [67, 76, 94],
+            "sidebar_border": [67, 76, 94],
+            "sidebar_highlight": [139, 192, 208],
+            "sidebar_highlight_text": [67, 76, 94],
+            "sidebar_text": [229, 233, 240],
+            "tab_background_seperator": [59, 66, 82],
+            "tab_background_text": [236, 239, 244],
+            "tab_line": [139, 192, 208],
+            "tab_loading": [143, 188, 187],
+            "tab_selected": [59, 66, 82],
+            "tab_text": [236, 239, 244],
+            "toolbar": [59, 66, 82],
+            "toolbar_bottom_separator": [59, 66, 82],
+            "toolbar_field": [67, 76, 94],
+            "toolbar_field_border": [67, 76, 94],
+            "toolbar_field_border_focus": [139, 192, 208],
+            "toolbar_field_focus": [67, 76, 94],
+            "toolbar_field_highlight": [139, 192, 208],
+            "toolbar_field_highlight_text": [129, 161, 193],
+            "toolbar_field_separator": [76, 86, 106],
+            "toolbar_field_text": [216, 222, 233],
+            "toolbar_field_text_focus": [236, 239, 244],
+            "toolbar_top_separator": [59, 66, 82],
+            "toolbar_vertical_separator": [67, 76, 94]
         }
     }
 }
