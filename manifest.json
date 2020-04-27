@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "version": "1.0",
+    "version": "1.1",
     "name": "Nord-Based Theme",
     "theme": {
         "colors": {
@@ -36,7 +36,7 @@
             "toolbar_field_border_focus": [139, 192, 208],
             "toolbar_field_focus": [67, 76, 94],
             "toolbar_field_highlight": [139, 192, 208],
-            "toolbar_field_highlight_text": [129, 161, 193],
+            "toolbar_field_highlight_text": [67, 76, 94],
             "toolbar_field_separator": [76, 86, 106],
             "toolbar_field_text": [216, 222, 233],
             "toolbar_field_text_focus": [236, 239, 244],
